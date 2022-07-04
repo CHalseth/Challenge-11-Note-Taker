@@ -1,0 +1,20 @@
+{
+  "name": "challenge-11-note-taker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CHalseth/Challenge-11-Note-Taker.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CHalseth/Challenge-11-Note-Taker/issues"
+  },
+  "homepage": "https://github.com/CHalseth/Challenge-11-Note-Taker#readme"
+}
