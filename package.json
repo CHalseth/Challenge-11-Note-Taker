@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/CHalseth/Challenge-11-Note-Taker/issues"
   },
-  "homepage": "https://github.com/CHalseth/Challenge-11-Note-Taker#readme"
+  "homepage": "https://github.com/CHalseth/Challenge-11-Note-Taker#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
 }
